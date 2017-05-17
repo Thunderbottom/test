@@ -14,11 +14,11 @@
       "type": [
         {
           "OS": "OOS",
-          "URL": ""
+          "URL": "r32OOS"
         },
         {
           "OS": "AOSP/Lineage",
-          "URL": ""
+          "URL": "r32AOSP/L"
         }
       ]
     },
@@ -27,11 +27,11 @@
       "type": [
         {
           "OS": "OOS",
-          "URL": ""
+          "URL": "r44OOS"
         },
         {
           "OS": "AOSP/Lineage",
-          "URL": ""
+          "URL": "r44AOSP/L"
         }
       ]
     },
@@ -40,11 +40,11 @@
       "type": [
         {
           "OS": "OOS",
-          "URL": ""
+          "URL": "r46OOS"
         },
         {
           "OS": "AOSP/Lineage",
-          "URL": ""
+          "URL": "r46AOSP"
         }
       ]
     }
