@@ -18,7 +18,7 @@
   },
   "versions": [
     {
-      "kernel_version": "r32",
+      "kernel_version": "Arsenic r32",
       "type": [
         {
           "OS": "OOS",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "kernel_version": "r44",
+      "kernel_version": "Arsenic r44",
       "type": [
         {
           "OS": "OOS",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "kernel_version": "r46",
+      "kernel_version": "Arsenic r46",
       "type": [
         {
           "OS": "OOS",
