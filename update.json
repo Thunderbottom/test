@@ -1,0 +1,52 @@
+{
+  "app": {
+    "version": "stub",
+    "versionCode": "2",
+    "link": "https://github.com/thunderbottom/ArsenicUpdater"
+  },
+  "kernel": {
+    "version": "34049",
+    "link": "https://github.com/thunderbottom/ArsenicUpdater"
+  },
+  "versions": [
+    {
+      "kernel_version": "r32",
+      "type": [
+        {
+          "OS": "OOS",
+          "URL": ""
+        },
+        {
+          "OS": "AOSP/Lineage",
+          "URL": ""
+        }
+      ]
+    },
+    {
+      "kernel_version": "r44",
+      "type": [
+        {
+          "OS": "OOS",
+          "URL": ""
+        },
+        {
+          "OS": "AOSP/Lineage",
+          "URL": ""
+        }
+      ]
+    },
+    {
+      "kernel_version": "r46",
+      "type": [
+        {
+          "OS": "OOS",
+          "URL": ""
+        },
+        {
+          "OS": "AOSP/Lineage",
+          "URL": ""
+        }
+      ]
+    }
+  ]
+}
