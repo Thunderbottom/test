@@ -5,15 +5,15 @@
     "link": "https://github.com/thunderbottom/ArsenicUpdater"
   },
   "kernel": [
-    "OS": "OOS"{
+  { "OS": "OOS",
     "version": "34032",
     "link": "https://github.com/thunderbottom/ArsenicUpdater"
   },
-    "OS": "Lineage"{
+  { "OS": "Lineage",
     "version": "34046",
     "link": "https://github.com/thunderbottom/ArsenicUpdater"
   },
-    "OS": "AOSP"{
+  { "OS": "AOSP",
     "version": "34046",
     "link": "https://github.com/thunderbottom/ArsenicUpdater"
   }
