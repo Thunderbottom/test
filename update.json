@@ -4,20 +4,18 @@
     "versionCode": "2",
     "link": "https://github.com/thunderbottom/ArsenicUpdater"
   },
-  "kernel": [
-  { "OS": "OOS",
+  "OOS": {
     "version": "34032",
     "link": "https://github.com/thunderbottom/ArsenicUpdater"
   },
-  { "OS": "Lineage",
+  "Lineage": {
     "version": "34046",
     "link": "https://github.com/thunderbottom/ArsenicUpdater"
   },
-  { "OS": "AOSP",
+  "AOSP": {
     "version": "34046",
     "link": "https://github.com/thunderbottom/ArsenicUpdater"
-  }
-  ],
+  },
   "versions": [
     {
       "kernel_version": "r32",
