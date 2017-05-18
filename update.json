@@ -1,32 +1,49 @@
 {
   "app": {
     "version": "stub",
-    "versionCode": "2",
+    "versionCode": "1",
     "link": "https://github.com/thunderbottom/ArsenicUpdater"
   },
   "OOS": {
-    "version": "34032",
-    "link": "https://github.com/thunderbottom/ArsenicUpdater"
+    "version": "34010",
+    "link": "https://arsenic-kernel.download/download/Arsenic.Kernel-OOS/arsenic.kernel-onyx_OOS.V10-20161206.zip"
   },
   "Lineage": {
     "version": "34046",
-    "link": "https://github.com/thunderbottom/ArsenicUpdater"
+    "link": "https://arsenic-kernel.download/download/Arsenic.Kernel-lineage/arsenic.kernel-onyx.R46-lineage-20170506.zip"
   },
   "AOSP": {
     "version": "34047",
-    "link": "https://github.com/Thunderbottom/test/files/1008674/arsenic.kernel-onyx.R46-aosp-20170506.zip"
+    "link": "http://arsenic-kernel.download/test/arsenic.kernel-onyx.R47-aosp-20170518.zip"
   },
   "versions": [
+    {
+      "kernel_version": "OOS",
+      "type": [
+        {
+          "OS": "V2",
+          "URL": "https://arsenic-kernel.download/download/Arsenic.Kernel-OOS/arsenic.kernel-onyx_OOS.V2-20161030.zip"
+        },
+        {
+          "OS": "V5",
+          "URL": "https://arsenic-kernel.download/download/Arsenic.Kernel-OOS/arsenic.kernel-onyx_OOS.V5-20161113.zip"
+        },
+        {
+          "OS": "V8",
+          "URL": "https://arsenic-kernel.download/download/Arsenic.Kernel-OOS/arsenic.kernel-onyx_OOS.V8-20161128.zip"
+        },
+        {
+          "OS": "V10",
+          "URL": "https://arsenic-kernel.download/download/Arsenic.Kernel-OOS/arsenic.kernel-onyx_OOS.V10-20161206.zip"
+        }
+      ]
+    },
     {
       "kernel_version": "Arsenic r32",
       "type": [
         {
-          "OS": "OOS",
-          "URL": "r32OOS"
-        },
-        {
           "OS": "AOSP/Lineage",
-          "URL": "r32AOSP/L"
+          "URL": "https://arsenic-kernel.download/download/Arsenic.Kernel-AOSP/arsenic.kernel-onyx.R32-20161221.zip"
         }
       ]
     },
@@ -34,11 +51,11 @@
       "kernel_version": "Arsenic r44",
       "type": [
         {
-          "OS": "OOS",
+          "OS": "AOSP",
           "URL": "r44OOS"
         },
         {
-          "OS": "AOSP/Lineage",
+          "OS": "Lineage",
           "URL": "r44AOSP/L"
         }
       ]
@@ -47,12 +64,21 @@
       "kernel_version": "Arsenic r46",
       "type": [
         {
-          "OS": "OOS",
-          "URL": "r46OOS"
+          "OS": "AOSP",
+          "URL": "https://arsenic-kernel.download/download/Arsenic.Kernel-AOSP/arsenic.kernel-onyx.R46-aosp-20170506.zip"
         },
         {
-          "OS": "AOSP/Lineage",
-          "URL": "r46AOSP"
+          "OS": "Lineage",
+          "URL": "https://arsenic-kernel.download/download/Arsenic.Kernel-lineage/arsenic.kernel-onyx.R46-lineage-20170506.zip"
+        }
+      ]
+    }
+    {
+      "kernel_version": "Arsenic r47",
+      "type": [
+        {
+          "OS": "AOSP",
+          "URL": "http://arsenic-kernel.download/test/arsenic.kernel-onyx.R47-aosp-20170518.zip"
         }
       ]
     }
