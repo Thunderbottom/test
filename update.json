@@ -18,7 +18,7 @@
   },
   "versions": [
     {
-      "kernel_version": "OOS",
+      "kernel_version": "OOS Kernels",
       "type": [
         {
           "OS": "V2",
@@ -44,19 +44,6 @@
         {
           "OS": "AOSP/Lineage",
           "URL": "https://arsenic-kernel.download/download/Arsenic.Kernel-AOSP/arsenic.kernel-onyx.R32-20161221.zip"
-        }
-      ]
-    },
-    {
-      "kernel_version": "Arsenic r44",
-      "type": [
-        {
-          "OS": "AOSP",
-          "URL": "r44OOS"
-        },
-        {
-          "OS": "Lineage",
-          "URL": "r44AOSP/L"
         }
       ]
     },
